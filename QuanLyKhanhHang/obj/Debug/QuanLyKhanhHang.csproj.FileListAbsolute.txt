@@ -1,0 +1,22 @@
+D:\LT .Net\TryHard\QuanLyKhanhHang\bin\Debug\QuanLyKhanhHang.exe.config
+D:\LT .Net\TryHard\QuanLyKhanhHang\bin\Debug\QuanLyKhanhHang.exe
+D:\LT .Net\TryHard\QuanLyKhanhHang\bin\Debug\QuanLyKhanhHang.pdb
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.csproj.AssemblyReference.cache
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.Properties.Resources.resources
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.csproj.GenerateResource.cache
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.csproj.CoreCompileInputs.cache
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.exe
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.pdb
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhachHang.Form1.resources
+D:\LT .Net\TryHard\QuanLyKhanhHang\obj\Debug\QuanLyKhachHang.Form2.resources
+C:\Users\USER\Downloads\QuanLyKhanhHang\bin\Debug\QuanLyKhanhHang.exe.config
+C:\Users\USER\Downloads\QuanLyKhanhHang\bin\Debug\QuanLyKhanhHang.exe
+C:\Users\USER\Downloads\QuanLyKhanhHang\bin\Debug\QuanLyKhanhHang.pdb
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhachHang.Form1.resources
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhachHang.Form2.resources
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.Properties.Resources.resources
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.exe
+C:\Users\USER\Downloads\QuanLyKhanhHang\obj\Debug\QuanLyKhanhHang.pdb
